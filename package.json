@@ -1,0 +1,22 @@
+{
+  "name": "database2",
+  "version": "1.0.0",
+  "description": "database2",
+  "main": "index.js",
+  "scripts": {
+    "test": "dbase"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eadraque/AdraqueBernabePrelimExam.git"
+  },
+  "author": "AdraqueBernabe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eadraque/AdraqueBernabePrelimExam/issues"
+  },
+  "homepage": "https://github.com/eadraque/AdraqueBernabePrelimExam#readme",
+  "dependencies": {
+    "pg": "^8.6.0"
+  }
+}
